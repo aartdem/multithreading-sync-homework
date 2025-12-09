@@ -1,4 +1,4 @@
-# Ping-Pong (signals, C)
+# Реализация Ping-Pong
 
 # Сборка
 
